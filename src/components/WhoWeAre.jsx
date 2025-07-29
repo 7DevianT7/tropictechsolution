@@ -1,6 +1,6 @@
 import React from 'react';
 import './WhoWeAre.css';
-import whoWeAreBg from '../assets/who-We-Are-Bg.png';
+import whoWeAreBg from '../assets/who-we-are-bg.png';
 
 const WhoWeAre = () => {
   return (
